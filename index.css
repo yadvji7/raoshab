@@ -1,0 +1,130 @@
+#main{width: 100%; height:2000px; background-color: blue; position: relative;}
+  #A{width:90%; height: 1900px; position: absolute; bottom: 0px; left: 62px; border-top-left-radius: 15px;  border-top-right-radius:15px; border-left: black solid 7px; border-right: black solid 7px; border-top: black solid 7px; background:transparent}
+    .A1{width:65%; height:20px; float:right; padding-top: 7px;  background:transparent}
+    .A2{width:100%; height:800px;}
+    .bx1:hover
+    {
+        transform: scale(1.1); z-index: 2px; box-shadow: 0px 0px 15px 7px yellow;
+    }
+
+    .A1:hover
+    {
+        transform: scale(1.1); z-index: 2px; box-shadow: 0px 0px 15px 7px yellow;
+    }
+  #B{width:65%; height: 500px; position: relative; top: 7%; left: 10%; }
+
+  .B1{width:29%; height:400px; position: absolute; top: 7%;  left:0%; border-radius: 3px; border-right: 4px solid black; border-bottom: 4px solid black; border-top:1px solid black; border-left: 1px solid black;}
+  .B1:hover
+  {
+      transform: scale(1.1); z-index: 2px; box-shadow: 0px 0px 15px 7px yellow;
+  }
+  
+  .ADD1:hover
+  {
+    transform: scale(1.1); z-index: 2px; box-shadow: 0px 0px 15px 7px yellow;
+
+  }
+
+
+
+  .B2{width:29%; height:400px; position: absolute; top: 7%;  float: left; left:30%;  border-radius: 3px; border-right: 4px solid black; border-bottom: 4px solid black; border-top:1px solid black;}
+  .B2:hover
+  {
+      transform: scale(1.1); z-index: 2px; box-shadow: 0px 0px 15px 7px yellow;
+  }
+
+  .ADD2:hover
+  {
+    transform: scale(1.1); z-index: 2px; box-shadow: 0px 0px 15px 7px yellow;
+
+  }
+
+  .B3{width:29%; height:400px;  position: absolute; top: 7%;  float: left; left:60%;  border-radius: 3px;  border-right: 4px solid black; border-bottom: 4px solid black; border-top:1px solid black;}
+  .B3:hover
+    {
+        transform: scale(1.1); z-index: 2px; box-shadow: 0px 0px 15px 7px yellow;
+    }
+
+    .ADD3:hover
+    {
+      transform: scale(1.1); z-index: 2px; box-shadow: 0px 0px 15px 7px yellow;
+
+    }
+
+  .B4{width:29%; height:400px;  position: absolute; top: 7%; float: left; left: 90%;  border-radius: 3px;  border-right: 4px solid black; border-bottom: 4px solid black; border-top:1px solid black;}
+  .B4:hover
+  {
+      transform: scale(1.1); z-index: 2px; box-shadow: 0px 0px 15px 7px yellow;
+  }
+
+  .ADD4:hover
+  {
+    transform: scale(1.1); z-index: 2px; box-shadow: 0px 0px 15px 7px yellow;
+
+  }
+
+
+#BX{width:65%; height:400px; position: relative; bottom: 0%; left: 10%; top: 3%; }
+  .BA{width:29%; height:400px;  position: absolute; bottom:0%; left:0%; top:4%; border-radius: 3px; border-right: 4px solid black; border-bottom: 4px solid black; border-left: 1px solid black;}
+  .BA:hover
+    {
+        transform: scale(1.1); z-index: 2px; box-shadow: 0px 0px 15px 7px yellow;
+    }
+
+    .ADD5:hover
+    {
+      transform: scale(1.1); z-index: 2px; box-shadow: 0px 0px 15px 7px yellow;
+
+    }
+
+
+
+  .BB{width:29%; height:400px; position: absolute; bottom:0%; top: 4%; float: left; left:30%;  border-radius: 3px; border-right: 4px solid black; border-bottom: 4px solid black; float: left;}
+  .BB:hover
+  {
+      transform: scale(1.1); z-index: 2px; box-shadow: 0px 0px 15px 7px yellow;
+  }
+  
+  .ADD6:hover
+  {
+    transform: scale(1.1); z-index: 2px; box-shadow: 0px 0px 15px 7px yellow;
+
+  }
+
+
+
+
+
+  .BC{width:29%; height:400px;  position: absolute; bottom: 0%;  top: 4%; left:60%;  border-radius: 3px;  border-right: 4px solid black; border-bottom: 4px solid black; float: left;}
+  .BC:hover
+  {
+      transform: scale(1.1); z-index: 2px; box-shadow: 0px 0px 15px 7px yellow;
+  }
+
+  .ADD7:hover
+  {
+    transform: scale(1.1); z-index: 2px; box-shadow: 0px 0px 15px 7px yellow;
+
+  }
+
+
+  .BD{width:29%; height:400px; position: absolute; bottom:0%;  top: 4%; left: 90%;  border-radius: 3px;  border-right: 4px solid black; border-bottom: 4px solid black; float: left;} 
+  .BD:hover
+  {
+      transform: scale(1.1); z-index: 2px; box-shadow: 0px 0px 15px 7px yellow;
+  }
+
+  .ADD8:hover
+  {
+    transform: scale(1.1); z-index: 2px; box-shadow: 0px 0px 15px 7px yellow;
+
+  }
+
+
+
+  .x{width:12%; height:2%; background-color: red; position: absolute; margin-left: 38%; margin-top: 10%; border-radius: 1px; }
+  .ADD9:hover
+  {
+    transform: scale(1.1); z-index: 2px; box-shadow: 0px 0px 15px 7px yellow;
+
+  }
